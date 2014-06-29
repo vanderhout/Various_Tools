@@ -1,0 +1,3 @@
+void randGrad(){
+  Random ran;
+  int num=ran.nextInt(12345);
